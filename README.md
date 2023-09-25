@@ -25,7 +25,7 @@ each of the methods implemented, as well as the running times for the
 same methods if they were implemented with LinkedList instead. (No
 need to explain here, only the big-O expression.)
 
-4. (20 points) Explain each of the eight running times in the table applying the rules of counting seen in class, and for the method calls, if we have covered them already, directly refer to the running times of
+4. (20 points) Explain each of the eight running times in the table applying the rules of counting seen in class, and for the method calls, if we have covered them already, directly refer to the running times of
 those methods.
    - (Partial credit if you do not explain all eight. No points for ambiguous
       explanations. For instance, if you implement add in the class Set using
